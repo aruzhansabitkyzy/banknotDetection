@@ -1,4 +1,3 @@
-import cv2
 import os
 from ultralytics import YOLO
 import streamlit as st
